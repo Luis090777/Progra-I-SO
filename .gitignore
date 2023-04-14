@@ -52,7 +52,6 @@ Mkfile.old
 dkms.conf
 .vscode/tasks.json
 .vscode/launch.json
-scr/obj
 c_cpp_properties.json
 .vscode/
 comuna
