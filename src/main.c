@@ -4,7 +4,7 @@
 #include "comuna.h"
 
 #define MAX_PROGRAMAS 100
-#define MAX_ACCIONES 20
+#define MAX_ACCIONES 30
 
 /*int main() {
 
@@ -74,7 +74,7 @@
                     strcpy(programa.nombre, dir->d_name);
                     programas[cantidad_programas++] = programa;
                 }
-            }
+            } ///if (cantidad_programas == 15){break;}
         }
         closedir(d);
     }
@@ -87,6 +87,11 @@
         printf("Acciones:\n");
         for (int j = 0; j < programas[i].cantidad_acciones; j++){
           printf("# %s\n", programas[i].acciones[j].comentario);
+         /// printf("# %s    \n", programas[i].acciones[j].area_para_tarea);
+          ///printf("# %d    \n", programas[i].acciones[j].cantidad_de_tiempo_requerido);
+          ///printf("# %d    \n", programas[i].acciones[j].cantidad_de_bateria_requerida);
+          ///printf("\n");
+          
         }
         printf("\n");
     }
