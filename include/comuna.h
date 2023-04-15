@@ -1,4 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <dirent.h>
+
+
+#define TURN_LOOP 1
+#define disponible 1
+#define ocupado 0
+#define ENERGIA_POR_PANEL 20
 
 struct Comuna {
     int cantidad_paneles_solares;
@@ -14,17 +23,17 @@ struct Comuna {
     int area_huerto;
 };
 
-struct Accion {
+
+typedef struct {
     char area_para_tarea[50];
     int cantidad_de_tiempo_requerido;
     int cantidad_de_bateria_requerida;
     char comentario[50];
-};
+} Accion;
 
-
-
-
-struct Programa {
-
-};
+typedef struct {
+    char nombre[50];
+    Accion acciones[100];
+    int cantidad_acciones;
+} Programa;
 

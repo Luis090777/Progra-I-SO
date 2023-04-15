@@ -1,4 +1,3 @@
-Hippie
 Trabaja 60 20 #Lo primero que hace es trabajar
 Requiere Huerto 90 20 #Obtiene algo para desayunar
 Requiere Gym 90 20 #Hace algo de ejercicio
