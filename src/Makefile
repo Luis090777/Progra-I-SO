@@ -7,10 +7,10 @@ LDIR =../lib
 
 LIBS=-lm
 
-_DEPS = comuna.h
+_DEPS = comuna.h parser.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
 
-_OBJ = main.o
+_OBJ = main.o parser.o comuna.o
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 
