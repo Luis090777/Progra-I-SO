@@ -13,29 +13,29 @@
 
 int main(){
 
-    Programa programas[MAX_PROGRAMAS];
-    int cantidad_programas = 0;
+    Accion acciones[MAX_PROGRAMAS*MAX_ACCIONES];
+    int cantidad_acciones = 0;
     char nombre_de_directorio[] = "Tareas de la comuna";
 
-    cantidad_programas = parseDirectorio(nombre_de_directorio, programas);
+    cantidad_acciones = parseDirectorio(nombre_de_directorio, acciones);
 
-    if (cantidad_programas == 0) {
+    if (cantidad_acciones == 0) {
         printf("No se encontraron archivos en el directorio especificado.\n");
         return 1;
     }
     
-    /*Imprimimos la lista de programas y sus acciones
-    for (int i = 0; i < cantidad_programas; i++) {
-        printf("Programa %d: %s\n", i+1, programas[i].nombre);
-        printf("Acciones:\n");
-        for (int j = 0; j < programas[i].cantidad_acciones; j++){
-          printf("# %s\n", programas[i].acciones[j].comentario);
-          if (programas[i].acciones[j].termina == 1){printf("termina\n");}
-        }
-        printf("\n");
-    }*/
+\
 
- 
+    ordenamiento_trabajo_más_corto(acciones, cantidad_acciones);
+
+    for (int i = 0; i < cantidad_acciones; i++) {
+       //if (acciones[i].programa_padre.indice == 1){
+        printf("programa: %s\n",acciones[i].programa_padre.nombre);
+        printf("orden: %d tiempo:%d\n",acciones[i].orden, acciones[i].cantidad_de_tiempo_requerido);          
+        //}
+        
+
+    }    
     //Crear una instancia de la estructura comuna
 
     struct Comuna comuna;
@@ -52,16 +52,8 @@ int main(){
     comuna.area_despensa = disponible;
     comuna.area_huerto = disponible;
 
-    int cantidad_acciones_total;
-    Accion *itinerario = generar_lista_acciones(programas, cantidad_programas,&cantidad_acciones_total);
-
-    printf("%d\n",cantidad_acciones_total);
 
 
-
-     for (int i = 0; i < cantidad_acciones_total; i++) {
-    printf("%s: %s\n", itinerario[i].area_para_tarea, itinerario[i].comentario);
-}
 
 
 switch (    comuna.cantidad_paneles_solares = 5) {

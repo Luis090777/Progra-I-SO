@@ -26,17 +26,16 @@ struct Comuna {
 };
 
 typedef struct {
+    int indice;
+    char nombre[50];
+} Programa;
+
+
+typedef struct {
+    int orden;
     char area_para_tarea[50];
     int cantidad_de_tiempo_requerido;
     int cantidad_de_bateria_requerida;
     char comentario[100];
+    Programa programa_padre;
 }Accion;
-
-typedef struct {
-    char nombre[50];
-    Accion acciones[100];
-    int cantidad_acciones;
-} Programa;
-
-Accion* generar_lista_acciones(Programa* programas, int cantidad_programas, int* cantidad_acciones);
-int compare_acciones(const void *a, const void *b);
