@@ -7,7 +7,7 @@
 #define TURN_LOOP 1
 #define disponible 1
 #define ocupado 0
-#define ENERGIA_POR_PANEL 20
+#define ENERGIA_POR_PANEL 1
 #define true 1
 #define false 0
 
