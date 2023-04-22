@@ -1,0 +1,476 @@
+De la tarea: Limpiar paneles Se completo la accion: Viajar al culto para reclutar colaboradores, Tiempo: 3, Batería gastada: 25
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 5, Batería gastada: 9
+De la tarea: Limpiar paneles Se completo la accion: Viajar al área de recreación para reclutar colaboradores, Tiempo: 4, Batería gastada: 23
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 1, Batería gastada: 14
+De la tarea: Limpiar paneles Se completo la accion: Viajar al gym para reclutar colaboradores, Tiempo: 4, Batería gastada: 17
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 4, Batería gastada: 9
+De la tarea: Aprender a tocar guitarra Se completo la accion: Conseguir materiales para construir una guitarra, Tiempo: 3, Batería gastada: 20
+De la tarea: Aprender a tocar guitarra Se completo la accion: Aprender como se construye, Tiempo: 6, Batería gastada: 12
+De la tarea: Cocinar pizza Se completo la accion: Para empezar el dia bendecido, Tiempo: 3, Batería gastada: 30
+De la tarea: Cocinar pizza Se completo la accion: Para aprender como hacer pizza, Tiempo: 1, Batería gastada: 13
+De la tarea: Cocinar pizza Se completo la accion: Comprar los materiales que se ocupan, Tiempo: 1, Batería gastada: 6
+De la tarea: Cocinar pizza Se completo la accion: Trabajar un poquito en la pizza, Tiempo: 4, Batería gastada: 22
+De la tarea: Cocinar pizza Se completo la accion: Se olvido de los tomates, Tiempo: 2, Batería gastada: 5
+De la tarea: Cocinar pizza Se completo la accion: Volver a trabajar un poquito, Tiempo: 1, Batería gastada: 12
+De la tarea: Practicar para Jedrez Se completo la accion: Leer sobre el Jedrez, Tiempo: 1, Batería gastada: 8
+De la tarea: Entrenar perro Se completo la accion: Leer sobre como entrenar perros, Tiempo: 2, Batería gastada: 13
+De la tarea: Entrenar perro Se completo la accion: Conseguir premios para el perro, Tiempo: 2, Batería gastada: 25
+De la tarea: Entrenar perro Se completo la accion: Se le olvido ir a culto de 7, entonces fue al de 10, Tiempo: 5, Batería gastada: 13
+De la tarea: Entrenar perro Se completo la accion: Empezo a enseñarle al perro, pero lo mordio, Tiempo: 3, Batería gastada: 12
+De la tarea: Entrenar perro Se completo la accion: Se fue a comprar algo para curarse, Tiempo: 5, Batería gastada: 29
+De la tarea: Entrenar perro Se completo la accion: Aprovecho para entrenar un poquito, Tiempo: 2, Batería gastada: 23
+De la tarea: Entrenar perro Se completo la accion: Se fue al parque a ver como entrenaban otros perros, Tiempo: 2, Batería gastada: 29
+De la tarea: Entrenar perro Se completo la accion: Ahora si se puso en serio, Tiempo: 2, Batería gastada: 23
+De la tarea: Aprender a boxear Se completo la accion: Rezar y agradecer para empezar el día, Tiempo: 2, Batería gastada: 9
+De la tarea: Honear queque Se completo la accion: Consulta a la comunidad por el queque que quieren, Tiempo: 20, Batería gastada: 5
+De la tarea: Manual de actividades 5 Se completo la accion: Se cae de la cama porque lo asusto la alarma, Tiempo: 2, Batería gastada: 5
+De la tarea: Limpiar paneles Se completo la accion: Viajar a la biblioteca para reclutar colaboradores, Tiempo: 5, Batería gastada: 12
+De la tarea: Reparar el carro Se completo la accion: Lleva el carro para revisarlo, Tiempo: 2, Batería gastada: 1
+De la tarea: Aprender a tocar guitarra Se completo la accion: Construir la guitarra, Tiempo: 6, Batería gastada: 22
+De la tarea: Aprender a tocar guitarra Se completo la accion: Aprender las notas, Tiempo: 1, Batería gastada: 8
+De la tarea: Aprender a tocar guitarra Se completo la accion: Practicar, Tiempo: 2, Batería gastada: 7
+De la tarea: Aprender a tocar guitarra Se completo la accion: Necesita descansar, Tiempo: 3, Batería gastada: 7
+De la tarea: Cocinar pizza Se completo la accion: Se aburrio y se fue al parque, Tiempo: 3, Batería gastada: 17
+De la tarea: Cocinar pizza Se completo la accion: Trabajar otro poquito, Tiempo: 4, Batería gastada: 11
+De la tarea: Salvar a un paciente Se completo la accion: Fue resar para tener un buen día, Tiempo: 6, Batería gastada: 9
+De la tarea: Practicar para Jedrez Se completo la accion: Conseguir materiales para construir su propio juego, Tiempo: 3, Batería gastada: 20
+De la tarea: Practicar para Jedrez Se completo la accion: Aprender como se construye, Tiempo: 6, Batería gastada: 12
+De la tarea: Practicar para Jedrez Se completo la accion: Empezo a construirlo, Tiempo: 4, Batería gastada: 17
+De la tarea: Practicar para Jedrez Se completo la accion: Necesita descansar, Tiempo: 3, Batería gastada: 7
+De la tarea: Entrenar perro Se completo la accion: El perro no come de los premios, Tiempo: 3, Batería gastada: 13
+De la tarea: Entrenar perro Se completo la accion: Se fue al huerto porque parece que al perro le gusta las frutas, Tiempo: 4, Batería gastada: 12
+De la tarea: Entrenar perro Se completo la accion: Ahora a intentar con fruta, Tiempo: 2, Batería gastada: 30
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 1, Batería gastada: 23
+De la tarea: Limpiar paneles Se completo la accion: Viajar al taller para reclutar colaboradores, Tiempo: 1, Batería gastada: 22
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 4, Batería gastada: 23
+De la tarea: Aprender a tocar guitarra Se completo la accion: Practicar mas, Tiempo: 3, Batería gastada: 10
+De la tarea: Aprender a tocar guitarra Se completo la accion: Tiene hambre, Tiempo: 2, Batería gastada: 9
+De la tarea: Aprender a tocar guitarra Se completo la accion: Comer, Tiempo: 3, Batería gastada: 10
+De la tarea: Aprender a tocar guitarra Se completo la accion: Rezar para aprender a tocar, Tiempo: 2, Batería gastada: 9
+De la tarea: Aprender a tocar guitarra Se completo la accion: Aprender una canción, Tiempo: 1, Batería gastada: 8
+De la tarea: Aprender a tocar guitarra Se completo la accion: Practicar, Tiempo: 2, Batería gastada: 7
+De la tarea: Cocinar pizza Se completo la accion: Ya perdio la bendicion del inicio, Tiempo: 4, Batería gastada: 10
+De la tarea: Cocinar pizza Se completo la accion: Se quedo sin ingredientes, Tiempo: 1, Batería gastada: 20
+De la tarea: Cocinar pizza Se completo la accion: Trabajar en la quinta pizza porque las otras quedaron mal, Tiempo: 1, Batería gastada: 20
+De la tarea: Cocinar pizza Se completo la accion: Entrenar un poquito para bajar las pizzas, Tiempo: 1, Batería gastada: 8
+De la tarea: Practicar para Jedrez Se completo la accion: Tiene hambre, Tiempo: 2, Batería gastada: 9
+De la tarea: Practicar para Jedrez Se completo la accion: Comer, Tiempo: 3, Batería gastada: 10
+De la tarea: Practicar para Jedrez Se completo la accion: Seguir construyendo, Tiempo: 2, Batería gastada: 6
+De la tarea: Practicar para Jedrez Se completo la accion: Casi se queda sin mano, Tiempo: 4, Batería gastada: 11
+De la tarea: Entrenar perro Se completo la accion: No pudo y se fue a pedir ayuda, Tiempo: 2, Batería gastada: 27
+De la tarea: Honear queque Se completo la accion: Buscar reseta, Tiempo: 40, Batería gastada: 15
+De la tarea: Limpiar paneles Se completo la accion: Viajar a la farmacia para reclutar colaboradores, Tiempo: 3, Batería gastada: 5
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 1, Batería gastada: 18
+De la tarea: Limpiar paneles Se completo la accion: Viajar a la despensa para reclutar colaboradores, Tiempo: 5, Batería gastada: 9
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 1, Batería gastada: 18
+De la tarea: Limpiar paneles Se completo la accion: Viajar al huerto para reclutar colaboradores, Tiempo: 4, Batería gastada: 6
+De la tarea: Aprender a tocar guitarra Se completo la accion: Se hizo una herida de tanto tocar, Tiempo: 4, Batería gastada: 11
+De la tarea: Cocinar pizza Se completo la accion: Leer un poquito mas porque la salsa quedo fea, Tiempo: 3, Batería gastada: 8
+De la tarea: Cocinar pizza Se completo la accion: Trabajar ahora si en serio, Tiempo: 3, Batería gastada: 12
+De la tarea: Cocinar pizza Se completo la accion: Trabajar extras para terminar la pizza, Tiempo: 2, Batería gastada: 19
+De la tarea: Salvar a un paciente Se completo la accion: Realizo día de piernas, Tiempo: 4, Batería gastada: 7
+De la tarea: Salvar a un paciente Se completo la accion: Se baña y prepara el desayuno, Tiempo: 4, Batería gastada: 7
+De la tarea: Practicar para Jedrez Se completo la accion: Curarse, Tiempo: 4, Batería gastada: 8
+De la tarea: Practicar para Jedrez Se completo la accion: Termino de construirlo, Tiempo: 14, Batería gastada: 9
+De la tarea: Aprender una nueva Fe Se completo la accion: Nuevas creencias, Tiempo: 111, Batería gastada: 40
+De la tarea: Entrenar perro Se completo la accion: A leer un libro de Cesar Millan, Tiempo: 15, Batería gastada: 12
+De la tarea: Entrenar perro Se completo la accion: Ahora si lo logro, Tiempo: 32, Batería gastada: 30
+De la tarea: Entrenar perro Se completo la accion: Pero lo mordieron otra vez y se fue a la farmacia, Tiempo: 22, Batería gastada: 17
+De la tarea: Manual de actividades 5 Se completo la accion: Inicia el día con devoción, Tiempo: 30, Batería gastada: 20
+De la tarea: Manual de actividades 5 Se completo la accion: Piensa en como resolver la programada, Tiempo: 35, Batería gastada: 15
+De la tarea: Manual de actividades 5 Se completo la accion: No se le ocurre nada, toma juguito, Tiempo: 20, Batería gastada: 15
+De la tarea: Limpiar paneles Se completo la accion: Reclutar colaboradores, Tiempo: 12, Batería gastada: 11
+De la tarea: Limpiar paneles Se completo la accion: Viajar a la granja solar, Tiempo: 20, Batería gastada: 17
+De la tarea: Limpiar paneles Se completo la accion: Limpiar los páneles, Tiempo: 28, Batería gastada: 26
+De la tarea: Crear y armar rompecabezas Se completo la accion: Buscar una imagen para el rompecabezas, Tiempo: 48, Batería gastada: 5
+De la tarea: Crear y armar rompecabezas Se completo la accion: Escanea la imagen  , Tiempo: 9, Batería gastada: 4
+De la tarea: Carro y gym Se completo la accion: Buscar manual del vehículo, Tiempo: 15, Batería gastada: 5
+De la tarea: Carro y gym Se completo la accion: Llevar el carro, Tiempo: 25, Batería gastada: 5
+De la tarea: Manual de actividades 2 Se completo la accion: Se lava los dientes por el alientazo mañanero, Tiempo: 15, Batería gastada: 10
+De la tarea: Reparar el carro Se completo la accion: Revisar el carro, Tiempo: 15, Batería gastada: 5
+De la tarea: Reparar el carro Se completo la accion: Buscar los repuestos , Tiempo: 45, Batería gastada: 5
+De la tarea: Manual de actividades 3 Se completo la accion: Mañanea a recoger los huevos, Tiempo: 25, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Lo primero es desayunar, Tiempo: 40, Batería gastada: 10
+De la tarea: Manual de actividades 4 Se completo la accion: Se baña para quitarse la goma, Tiempo: 25, Batería gastada: 10
+De la tarea: Manual de actividades 4 Se completo la accion: Compra alka negra y electrolit, Tiempo: 30, Batería gastada: 20
+De la tarea: Practicar para Jedrez Se completo la accion: Jugar Jedrez, Tiempo: 19, Batería gastada: 12
+De la tarea: Honear queque Se completo la accion: Consulta si le gusta la reseta  , Tiempo: 5, Batería gastada: 3
+De la tarea: Reparar el carro Se completo la accion: Resar para que todo salga bien y no gaste más plata, Tiempo: 33, Batería gastada: 3
+De la tarea: Aprender a tocar guitarra Se completo la accion: Curarse, Tiempo: 9, Batería gastada: 6
+De la tarea: Aprender a tocar guitarra Se completo la accion: Practicar mas y mas, Tiempo: 13, Batería gastada: 10
+De la tarea: Aprender a tocar guitarra Se completo la accion: Tocar un concierto, Tiempo: 31, Batería gastada: 25
+De la tarea: Salvar a un paciente Se completo la accion: Se una mejenga(Futbol) y un compañero se desmayo   , Tiempo: 15, Batería gastada: 9
+De la tarea: Salvar a un paciente Se completo la accion: LLeva a su compañero para revisarlo , Tiempo: 25, Batería gastada: 5
+De la tarea: Salvar a un paciente Se completo la accion: Fue al taller para conseguir el equipo medico, Tiempo: 15, Batería gastada: 9
+De la tarea: Practicar para Jedrez Se completo la accion: Aprender nuevos movimientos, Tiempo: 10, Batería gastada: 8
+De la tarea: Practicar para Jedrez Se completo la accion: Practicar movimientos , Tiempo: 17, Batería gastada: 11
+De la tarea: Practicar para Jedrez Se completo la accion: Rezar para que le vaya bien en la competencia, Tiempo: 11, Batería gastada: 9
+De la tarea: Aprender una nueva Fe Se completo la accion: Estudiar nueva Fe, Tiempo: 40, Batería gastada: 20
+De la tarea: Honear queque Se completo la accion: Cosecha la fruta  , Tiempo: 15, Batería gastada: 9
+De la tarea: Aprender Medicina casera Se completo la accion: Conocimiento, Tiempo: 138, Batería gastada: 38
+De la tarea: Aprender a programar Se completo la accion: Comprar una computadora, Tiempo: 30, Batería gastada: 15
+De la tarea: Aprender una nueva Fe Se completo la accion: Un lugar donde hacer plegarias, Tiempo: 142, Batería gastada: 21
+De la tarea: Crear y armar rompecabezas Se completo la accion: Impreme la imagen en grande, Tiempo: 9, Batería gastada: 4
+De la tarea: Aprender una nueva Fe Se completo la accion: Comida y ofrenda, Tiempo: 71, Batería gastada: 21
+De la tarea: Aprender a boxear Se completo la accion: Comprar guantes y vendas de boxeo, Tiempo: 34, Batería gastada: 17
+De la tarea: Aprender a boxear Se completo la accion: Ver videos de como vendarse, Tiempo: 40, Batería gastada: 10
+De la tarea: Aprender a boxear Se completo la accion: Practicar el vendaje, Tiempo: 25, Batería gastada: 10
+De la tarea: Honear queque Se completo la accion: Corta la fruta, Tiempo: 13, Batería gastada: 5
+De la tarea: Honear queque Se completo la accion: Buscar los ingrediantes de reseta, Tiempo: 11, Batería gastada: 7
+De la tarea: Manual de actividades 1 Se completo la accion: Prepara desayuno para empezar el día con energía, Tiempo: 30, Batería gastada: 20
+De la tarea: Manual de actividades 1 Se completo la accion: Se baña porque ya es el día correspondiente de la semana      , Tiempo: 45, Batería gastada: 30
+De la tarea: Manual de actividades 1 Se completo la accion: Para buscar los libros de progra, Tiempo: 65, Batería gastada: 45
+De la tarea: Manual de actividades 1 Se completo la accion: Corre para no llegar tarde a clases, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 1 Se completo la accion: Clases, Tiempo: 120, Batería gastada: 60
+De la tarea: Comuna#5 Se completo la accion: Lo primero es desayunar, Tiempo: 40, Batería gastada: 10
+De la tarea: Manual de actividades 5 Se completo la accion: Se reune con sus compañeros de curso, Tiempo: 70, Batería gastada: 40
+De la tarea: Manual de actividades 5 Se completo la accion: Distribuye las tareas a realizar, Tiempo: 50, Batería gastada: 20
+De la tarea: Manual de actividades 5 Se completo la accion: Panza vacia = Mente no funcional, Tiempo: 75, Batería gastada: 45
+De la tarea: Comuna#3 Se completo la accion: Lo primero es desayunar, Tiempo: 40, Batería gastada: 10
+De la tarea: Cocinar Se completo la accion: Planifica el menú del día, Tiempo: 16, Batería gastada: 1
+De la tarea: Crear y armar rompecabezas Se completo la accion: Buscar un cartón y goma, Tiempo: 11, Batería gastada: 2
+De la tarea: Crear y armar rompecabezas Se completo la accion: Pega la imagen en el cartón , Tiempo: 13, Batería gastada: 2
+De la tarea: Aprender a cultivar Se completo la accion: Hay que tener donde empezar, Tiempo: 250, Batería gastada: 50
+De la tarea: Comuna#2 Se completo la accion: Lo primero es desayunar, Tiempo: 40, Batería gastada: 10
+De la tarea: Carro y gym Se completo la accion: Buscar aceite mecánico y herramientas, Tiempo: 22, Batería gastada: 7
+De la tarea: Manual de actividades 2 Se completo la accion: Camina al trabajo, Tiempo: 45, Batería gastada: 30
+De la tarea: Manual de actividades 2 Se completo la accion: Ayuda a empujar un carro, Tiempo: 30, Batería gastada: 20
+De la tarea: Manual de actividades 2 Se completo la accion: Es instructor y hoy tiene clase de zumba, Tiempo: 65, Batería gastada: 45
+De la tarea: Manual de actividades 2 Se completo la accion: Corre a su segundo trabajo, Tiempo: 50, Batería gastada: 20
+De la tarea: Reparar el carro Se completo la accion: Lleva los repuestos y reparar el carro , Tiempo: 74, Batería gastada: 24
+De la tarea: Reparar el carro Se completo la accion: Juega una partidad de basket, Tiempo: 15, Batería gastada: 9
+De la tarea: Reparar el carro Se completo la accion: Se revisa el carro de nuevo, Tiempo: 25, Batería gastada: 10
+De la tarea: Reparar el carro Se completo la accion: Busca otra pieza otra vez, Tiempo: 27, Batería gastada: 7
+De la tarea: Manual de actividades 3 Se completo la accion: Ordeña las vacas, Tiempo: 45, Batería gastada: 30
+De la tarea: Manual de actividades 3 Se completo la accion: Cuenta chistes de elefantes, Tiempo: 10, Batería gastada: 5
+De la tarea: Aprender a programar Se completo la accion: Ver videos en Youtube sobre instalación de Ide, Tiempo: 52, Batería gastada: 12
+De la tarea: Aprender a programar Se completo la accion: Instalar IDE , Tiempo: 26, Batería gastada: 18
+De la tarea: Comuna#1 Se completo la accion: Hacer una hora de ejercicio, Tiempo: 70, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Alistar todo lo necesario para el día laboral  , Tiempo: 40, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Atender a un paciente y comprobar que tiene , Tiempo: 60, Batería gastada: 30
+De la tarea: Manual de actividades 4 Se completo la accion: Se lamenta por tomar tanto, Tiempo: 25, Batería gastada: 5
+De la tarea: Manual de actividades 4 Se completo la accion: Ranchando, Tiempo: 20, Batería gastada: 15
+De la tarea: Manual de actividades 4 Se completo la accion: Pide ayuda al padre para dejar de beber, Tiempo: 70, Batería gastada: 40
+De la tarea: Salvar a un paciente Se completo la accion: Revisa a su compañero, Tiempo: 25, Batería gastada: 5
+De la tarea: Salvar a un paciente Se completo la accion: Fue a busca los sintomas parecidos, Tiempo: 55, Batería gastada: 15
+De la tarea: Crear y armar rompecabezas Se completo la accion: Diseña el carte para las piezas del rompecabezas, Tiempo: 77, Batería gastada: 6
+De la tarea: Honear queque Se completo la accion: Prepara la mezcla del queque , Tiempo: 60, Batería gastada: 10
+De la tarea: Aprender Medicina casera Se completo la accion: Un estudio intensivo, Tiempo: 148, Batería gastada: 20
+De la tarea: Practicar para Jedrez Se completo la accion: Competir, Tiempo: 40, Batería gastada: 28
+De la tarea: Aprender una nueva Fe Se completo la accion: Rezar con mucha intensidad , Tiempo: 94, Batería gastada: 61
+De la tarea: Aprender a boxear Se completo la accion: Necesita comer, Tiempo: 20, Batería gastada: 10
+De la tarea: Aprender a boxear Se completo la accion: Entrenar en una academia de boxeo, Tiempo: 85, Batería gastada: 25
+De la tarea: Manual de actividades 1 Se completo la accion: Regresa a casa, Tiempo: 75, Batería gastada: 45
+De la tarea: Cocinar Se completo la accion: Va a la despensa por los alimentos , Tiempo: 22, Batería gastada: 2
+De la tarea: Cocinar Se completo la accion: Cocina el desayuno , Tiempo: 63, Batería gastada: 3
+De la tarea: Cocinar Se completo la accion: Clases de zumba , Tiempo: 124, Batería gastada: 4
+De la tarea: Aprender a cultivar Se completo la accion: Para los conocimientos básicos, Tiempo: 155, Batería gastada: 35
+De la tarea: Aprender a cultivar Se completo la accion: Estudiar, Tiempo: 85, Batería gastada: 20
+De la tarea: Carro y gym Se completo la accion: Cambiar el aceite y limpiar, Tiempo: 50, Batería gastada: 5
+De la tarea: Carro y gym Se completo la accion: Buscar llantas del carro, Tiempo: 22, Batería gastada: 2
+De la tarea: Manual de actividades 2 Se completo la accion: Cuida niños para mantener su vida lujosa, Tiempo: 120, Batería gastada: 50
+De la tarea: Aprender Medicina casera Se completo la accion: Ejemplares, Tiempo: 84, Batería gastada: 52
+De la tarea: Reparar el carro Se completo la accion: Busca sabiduria y ilumine al mecanico, Tiempo: 33, Batería gastada: 3
+De la tarea: Atender a los heridos Se completo la accion: Ver agenda  , Tiempo: 16, Batería gastada: 1
+De la tarea: Manual de actividades 3 Se completo la accion: Siembre los cultivos, Tiempo: 140, Batería gastada: 80
+De la tarea: Manual de actividades 3 Se completo la accion: Alimenta a los caballos, Tiempo: 50, Batería gastada: 20
+De la tarea: Aprender a programar Se completo la accion: Ver videos en Youtube sobre el lenguaje python, Tiempo: 71, Batería gastada: 11
+De la tarea: Aprender a programar Se completo la accion: Practicar, Tiempo: 48, Batería gastada: 18
+De la tarea: Aprender a programar Se completo la accion: Necesita hacer deporte, Tiempo: 85, Batería gastada: 25
+De la tarea: Manual de actividades 4 Se completo la accion: Va a alcoholicos anonimos, Tiempo: 50, Batería gastada: 20
+De la tarea: Mantener huerto Se completo la accion: Hace inventario de la cosecha, Tiempo: 49, Batería gastada: 4
+De la tarea: Aprender una nueva Fe Se completo la accion: Rezar con menos intensidad, Tiempo: 46, Batería gastada: 23
+De la tarea: Aprender a boxear Se completo la accion: Necesita fortalecerse, Tiempo: 65, Batería gastada: 20
+De la tarea: Aprender a cultivar Se completo la accion: Construir separadores, Tiempo: 171, Batería gastada: 70
+De la tarea: Aprender una nueva Fe Se completo la accion: Mejor otra creencia, Tiempo: 61, Batería gastada: 8
+De la tarea: Aprender una nueva Fe Se completo la accion: Ofrecer ofrendas, Tiempo: 10, Batería gastada: 1
+De la tarea: Aprender a boxear Se completo la accion: Necesita comer, Tiempo: 20, Batería gastada: 10
+De la tarea: Honear queque Se completo la accion: Hornea el queque , Tiempo: 45, Batería gastada: 25
+De la tarea: Honear queque Se completo la accion: Mirar a la nada esperando , Tiempo: 31, Batería gastada: 1
+De la tarea: Honear queque Se completo la accion: Lo saca del horno y lo deja reposar, Tiempo: 22, Batería gastada: 2
+De la tarea: Manual de actividades 1 Se completo la accion: Se pone a jugar para relajarse, Tiempo: 90, Batería gastada: 30
+De la tarea: Manual de actividades 1 Se completo la accion: Busca algo para poner porque que hambre, Tiempo: 25, Batería gastada: 15
+De la tarea: Comuna#5 Se completo la accion: Hacer una hora de ejercicio, Tiempo: 70, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion:  Trabajar plantando semillas, Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#5 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion: Trabajar regar plantas, Tiempo: 150, Batería gastada: 30
+De la tarea: Manual de actividades 5 Se completo la accion: Descansa despues de almuerzo, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 5 Se completo la accion: Piensa en que hacer, Tiempo: 20, Batería gastada: 15
+De la tarea: Manual de actividades 5 Se completo la accion: Se pone a ver twitch y a jugar en la compu, Tiempo: 120, Batería gastada: 50
+De la tarea: Comuna#3 Se completo la accion: Hacer una hora de ejercicio, Tiempo: 70, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Alistar todo lo necesario para el día estudiantil  , Tiempo: 40, Batería gastada: 10
+De la tarea: Cocinar Se completo la accion: Prepara la cocina , Tiempo: 11, Batería gastada: 1
+De la tarea: Cocinar Se completo la accion: Recolecta las verduras para el almuerzo , Tiempo: 44, Batería gastada: 4
+De la tarea: Cocinar Se completo la accion: Hacer el almuerzo , Tiempo: 123, Batería gastada: 3
+De la tarea: Aprender a cultivar Se completo la accion: Alistar tierra de cultivo , Tiempo: 55, Batería gastada: 12
+De la tarea: Comuna#2 Se completo la accion: Hacer una hora de ejercicio, Tiempo: 70, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Comprobar notas, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Alistar todo lo necesario para el día laboral  , Tiempo: 40, Batería gastada: 10
+De la tarea: Carro y gym Se completo la accion: Cambiarle una llanta al carro, Tiempo: 24, Batería gastada: 4
+De la tarea: Carro y gym Se completo la accion: Devolver el carro, Tiempo: 25, Batería gastada: 5
+De la tarea: Carro y gym Se completo la accion: Devolver el manual del vehículo y buscar una película , Tiempo: 12, Batería gastada: 7
+De la tarea: Carro y gym Se completo la accion: Ver la película , Tiempo: 25, Batería gastada: 10
+De la tarea: Enseñanza diversa Se completo la accion: Prepara el aula , Tiempo: 32, Batería gastada: 2
+De la tarea: Enseñanza diversa Se completo la accion: Recolecta los libros que necesita de agronomía , Tiempo: 66, Batería gastada: 6
+De la tarea: Manual de actividades 2 Se completo la accion: Corre a su tercer trabajo, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 2 Se completo la accion: Baila en el night club, Tiempo: 90, Batería gastada: 30
+De la tarea: Manual de actividades 2 Se completo la accion: Juega play, Tiempo: 75, Batería gastada: 45
+De la tarea: Reparar el carro Se completo la accion: Repara el carro, Tiempo: 60, Batería gastada: 10
+De la tarea: Atender a los heridos Se completo la accion: Organiza la farmacia , Tiempo: 33, Batería gastada: 3
+De la tarea: Atender a los heridos Se completo la accion: Realiza la consulta del paciente, Tiempo: 33, Batería gastada: 3
+De la tarea: Manual de actividades 3 Se completo la accion: Arrea a la vacas al corral, Tiempo: 120, Batería gastada: 50
+De la tarea: Manual de actividades 3 Se completo la accion: Toma un siesta en una hamaca, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 3 Se completo la accion: Vacuna a las ovejas, Tiempo: 90, Batería gastada: 30
+De la tarea: Comuna#1 Se completo la accion: Comparar notas con libros para confirmar, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Obtener las medicinas que se van a prescribir , Tiempo: 20, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Especificar al paciente la receta asignada y detalles , Tiempo: 15, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Tomar un tiempo para almorzar , Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Tomar corto descanso, Tiempo: 20, Batería gastada: 10
+De la tarea: Manual de actividades 4 Se completo la accion: Camina por el parque para pensar, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 4 Se completo la accion: Almuerzo una sopita recuperadora, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 4 Se completo la accion: Vuelve a ranchar, Tiempo: 20, Batería gastada: 15
+De la tarea: Manual de actividades 4 Se completo la accion: Va a comprar respuestos del carro, Tiempo: 75, Batería gastada: 45
+De la tarea: Salvar a un paciente Se completo la accion: Reviso a su compañero para verificar , Tiempo: 5, Batería gastada: 3
+De la tarea: Salvar a un paciente Se completo la accion: Le puso alcohol para que despierte , Tiempo: 45, Batería gastada: 25
+De la tarea: Salvar a un paciente Se completo la accion: Fue por la medicina, Tiempo: 31, Batería gastada: 1
+De la tarea: Salvar a un paciente Se completo la accion: Le suministra la medicina, Tiempo: 45, Batería gastada: 25
+De la tarea: Salvar a un paciente Se completo la accion: Le hace un chequeo para ver si esta estable, Tiempo: 22, Batería gastada: 2
+De la tarea: Aprender una nueva Fe Se completo la accion: Un refrigerio, Tiempo: 11, Batería gastada: 3
+De la tarea: Aprender a cultivar Se completo la accion: Conseguir semillas, Tiempo: 46, Batería gastada: 20
+De la tarea: Aprender a programar Se completo la accion: Practicar, Tiempo: 48, Batería gastada: 18
+De la tarea: Aprender a cultivar Se completo la accion: Etiquetar semillas, Tiempo: 47, Batería gastada: 17
+De la tarea: Preparar el culto Se completo la accion: Ordenando el espacio, Tiempo: 47, Batería gastada: 2
+De la tarea: Preparar el culto Se completo la accion: Va por mas sillas, Tiempo: 42, Batería gastada: 2
+De la tarea: Preparar el culto Se completo la accion: Preparando la agenda, Tiempo: 33, Batería gastada: 3
+De la tarea: Preparar el culto Se completo la accion: Va por el libro del culto, Tiempo: 32, Batería gastada: 2
+De la tarea: Aprender a boxear Se completo la accion: Necesita descansar, Tiempo: 35, Batería gastada: 5
+De la tarea: Aprender a boxear Se completo la accion: Ver videos de tecnica, Tiempo: 60, Batería gastada: 15
+De la tarea: Honear queque Se completo la accion: Busca las frutas para decorar , Tiempo: 12, Batería gastada: 2
+De la tarea: Honear queque Se completo la accion: Crema para decorar , Tiempo: 12, Batería gastada: 2
+De la tarea: Manual de actividades 1 Se completo la accion: Cocina y se alimenta, Tiempo: 220, Batería gastada: 100
+De la tarea: Manual de actividades 1 Se completo la accion: Toma la siesta, Tiempo: 15, Batería gastada: 5
+De la tarea: Comuna#5 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion: Trabajar esparcir herbicidas, Tiempo: 150, Batería gastada: 30
+De la tarea: Manual de actividades 5 Se completo la accion: Va a caminar con la mejor amiga, Tiempo: 30, Batería gastada: 10
+De la tarea: Manual de actividades 5 Se completo la accion: Llora por estar en la friendzone, Tiempo: 15, Batería gastada: 5
+De la tarea: Manual de actividades 5 Se completo la accion: Va a ponerse mamado para que le den pelota, Tiempo: 220, Batería gastada: 120
+De la tarea: Manual de actividades 5 Se completo la accion: Caminan a casa, Tiempo: 50, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Recibir la clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Cambiar el aula y recibir otra clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Cambiar el aula y recibir otra clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Tomar un tiempo para almorzar , Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Tomar corto descanso, Tiempo: 20, Batería gastada: 10
+De la tarea: Cocinar Se completo la accion: Va a descansar , Tiempo: 63, Batería gastada: 3
+De la tarea: Aprender a cultivar Se completo la accion: Colocar semillas, Tiempo: 82, Batería gastada: 22
+De la tarea: Aprender a cultivar Se completo la accion: Saber cantidad necesaria, Tiempo: 25, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Realizar la clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#2 Se completo la accion: Cambiar de grupo y realizar otra clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#2 Se completo la accion: Cambiar de grupo y realizar otra clase , Tiempo: 150, Batería gastada: 30
+De la tarea: Carro y gym Se completo la accion: Asear el área común, Tiempo: 42, Batería gastada: 12
+De la tarea: Carro y gym Se completo la accion: Dia de piernas, Tiempo: 115, Batería gastada: 15
+De la tarea: Carro y gym Se completo la accion: Asear el Gym, Tiempo: 46, Batería gastada: 16
+De la tarea: Carro y gym Se completo la accion: Buscar huevos y tortillas, Tiempo: 5, Batería gastada: 0
+De la tarea: Enseñanza diversa Se completo la accion: Inicia la primera lección sobre agricultura, Tiempo: 66, Batería gastada: 6
+De la tarea: Enseñanza diversa Se completo la accion: Va por los implementos para la clase de cocina, Tiempo: 32, Batería gastada: 2
+De la tarea: Enseñanza diversa Se completo la accion: Va por las verduras o frutas necesarias , Tiempo: 21, Batería gastada: 1
+De la tarea: Enseñanza diversa Se completo la accion: Da la lección de cocina , Tiempo: 67, Batería gastada: 7
+De la tarea: Enseñanza diversa Se completo la accion: Come su merienda, Tiempo: 33, Batería gastada: 3
+De la tarea: Enseñanza diversa Se completo la accion: Recolecta los libros de biología, Tiempo: 33, Batería gastada: 3
+De la tarea: Manual de actividades 2 Se completo la accion: Se confiesa con el pastor, Tiempo: 60, Batería gastada: 40
+De la tarea: Manual de actividades 2 Se completo la accion: Va a casa, Tiempo: 15, Batería gastada: 5
+De la tarea: Manual de actividades 2 Se completo la accion: Lava ropa y alista la del día siguiente, Tiempo: 80, Batería gastada: 20
+De la tarea: Reparar el carro Se completo la accion: Revisa el carro, Tiempo: 13, Batería gastada: 3
+De la tarea: Reparar el carro Se completo la accion: Compra pastillas para el dolor de cabeza, Tiempo: 15, Batería gastada: 5
+De la tarea: Atender a los heridos Se completo la accion: Va por los medicamentos del paciente, Tiempo: 31, Batería gastada: 1
+De la tarea: Atender a los heridos Se completo la accion: Sutura de herida del paciente, Tiempo: 66, Batería gastada: 6
+De la tarea: Atender a los heridos Se completo la accion: Va por los Instrumentos, Tiempo: 21, Batería gastada: 1
+De la tarea: Atender a los heridos Se completo la accion: Va por el desayuno , Tiempo: 48, Batería gastada: 3
+De la tarea: Atender a los heridos Se completo la accion: Va a descansar , Tiempo: 34, Batería gastada: 4
+De la tarea: Atender a los heridos Se completo la accion: Realiza la consulta del paciente, Tiempo: 33, Batería gastada: 3
+De la tarea: Atender a los heridos Se completo la accion: Va por los medicamentos del paciente, Tiempo: 31, Batería gastada: 1
+De la tarea: Atender a los heridos Se completo la accion: Realizar cirugía menor , Tiempo: 130, Batería gastada: 10
+De la tarea: Manual de actividades 3 Se completo la accion: Recoge vegetales para la ensalada, Tiempo: 75, Batería gastada: 45
+De la tarea: Manual de actividades 3 Se completo la accion: Busca la carne para el almuerzo, Tiempo: 30, Batería gastada: 10
+De la tarea: Manual de actividades 3 Se completo la accion: Regaña al hijo por no atrapar a la gallina, Tiempo: 15, Batería gastada: 5
+De la tarea: Aprender a programar Se completo la accion: Debe comer, Tiempo: 21, Batería gastada: 11
+De la tarea: Aprender a programar Se completo la accion: Investigar en páginas, Tiempo: 45, Batería gastada: 20
+De la tarea: Aprender a programar Se completo la accion: Practicar, Tiempo: 48, Batería gastada: 18
+De la tarea: Aprender a programar Se completo la accion: Le duele la cabeza por pensar tanto, Tiempo: 26, Batería gastada: 11
+De la tarea: Comuna#1 Se completo la accion: Comprobar notas para una operación, Tiempo: 40, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Obtener el material necesario, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Prepara y comprobar todo, Tiempo: 30, Batería gastada: 20
+De la tarea: Comuna#1 Se completo la accion: Realizar la operación  , Tiempo: 240, Batería gastada: 120
+De la tarea: Manual de actividades 4 Se completo la accion: Busca la comida para sus papás, Tiempo: 30, Batería gastada: 10
+De la tarea: Manual de actividades 4 Se completo la accion: Busca una moneda que se le perdio, Tiempo: 15, Batería gastada: 5
+De la tarea: Manual de actividades 4 Se completo la accion: Se topa a un compa y se ponen a recordar, Tiempo: 80, Batería gastada: 20
+De la tarea: Manual de actividades 4 Se completo la accion: Caminan a un bar, Tiempo: 50, Batería gastada: 30
+De la tarea: Manual de actividades 4 Se completo la accion: Piensa en que no debe de tomar, Tiempo: 15, Batería gastada: 5
+De la tarea: Salvar a un paciente Se completo la accion: Fue por comida a la despensa, Tiempo: 12, Batería gastada: 2
+De la tarea: Mantener huerto Se completo la accion: A revisar los cultivos , Tiempo: 66, Batería gastada: 6
+De la tarea: Mantener huerto Se completo la accion: Busca herramientas , Tiempo: 34, Batería gastada: 4
+De la tarea: Mantener huerto Se completo la accion: Prepara la tierra , Tiempo: 66, Batería gastada: 6
+De la tarea: Aprender Medicina casera Se completo la accion: Medicamentos , Tiempo: 66, Batería gastada: 21
+De la tarea: Aprender Medicina casera Se completo la accion: combinar medicamentos, Tiempo: 112, Batería gastada: 50
+De la tarea: Aprender una nueva Fe Se completo la accion: Se alimenta, Tiempo: 15, Batería gastada: 5
+De la tarea: Aprender una nueva Fe Se completo la accion: Intento de otra creencia, Tiempo: 47, Batería gastada: 14
+De la tarea: Crear y armar rompecabezas Se completo la accion: No encontro tijeras, fue un cuter , Tiempo: 55, Batería gastada: 9
+De la tarea: Crear y armar rompecabezas Se completo la accion: Corta las piezas , Tiempo: 97, Batería gastada: 10
+De la tarea: Crear y armar rompecabezas Se completo la accion: Se fue a dormir a la playa por el dolor de cabeza , Tiempo: 36, Batería gastada: 2
+De la tarea: Aprender a cultivar Se completo la accion: Regar, Tiempo: 55, Batería gastada: 12
+De la tarea: Preparar el culto Se completo la accion: Da el primer sermón, Tiempo: 125, Batería gastada: 5
+De la tarea: Aprender a boxear Se completo la accion: Ver peleas, Tiempo: 75, Batería gastada: 15
+De la tarea: Honear queque Se completo la accion: Decorar el queque   , Tiempo: 18, Batería gastada: 6
+De la tarea: Manual de actividades 1 Se completo la accion: Para mantenerse en forma, Tiempo: 80, Batería gastada: 20
+De la tarea: Cocinar Se completo la accion: Va al culto , Tiempo: 125, Batería gastada: 5
+De la tarea: Aprender Medicina casera Se completo la accion: desechar inservibles, Tiempo: 21, Batería gastada: 13
+De la tarea: Reparar el carro Se completo la accion: Saca el carro , Tiempo: 7, Batería gastada: 2
+De la tarea: Aprender a programar Se completo la accion: Necesita descansar, Tiempo: 33, Batería gastada: 3
+De la tarea: Salvar a un paciente Se completo la accion: Fue agraceder porque logro salvar a una persona, Tiempo: 12, Batería gastada: 2
+De la tarea: Aprender una nueva Fe Se completo la accion: Estudios sobre el satanismo, Tiempo: 72, Batería gastada: 6
+De la tarea: Aprender a cultivar Se completo la accion: Más espacio, Tiempo: 20, Batería gastada: 10
+De la tarea: Aprender Medicina casera Se completo la accion: Más muestras, Tiempo: 29, Batería gastada: 17
+De la tarea: Aprender Medicina casera Se completo la accion: realizar más practicas, Tiempo: 94, Batería gastada: 43
+De la tarea: Crear y armar rompecabezas Se completo la accion: Cuenta y guarda las piezas, Tiempo: 37, Batería gastada: 2
+De la tarea: Aprender a cultivar Se completo la accion: Debe de comer, Tiempo: 25, Batería gastada: 5
+De la tarea: Aprender a cultivar Se completo la accion: Necesita energía adicional, Tiempo: 40, Batería gastada: 10
+De la tarea: Preparar el culto Se completo la accion: Va por el desayuno, Tiempo: 48, Batería gastada: 3
+De la tarea: Preparar el culto Se completo la accion: Se va a dormir, Tiempo: 64, Batería gastada: 4
+De la tarea: Preparar el culto Se completo la accion: Limpiando y acomodando, Tiempo: 49, Batería gastada: 4
+De la tarea: Preparar el culto Se completo la accion: Va por productos de limpieza, Tiempo: 32, Batería gastada: 2
+De la tarea: Aprender a boxear Se completo la accion: Necesita comer, Tiempo: 20, Batería gastada: 10
+De la tarea: Aprender a boxear Se completo la accion: Entrenar en una academia de boxeo, Tiempo: 85, Batería gastada: 25
+De la tarea: Carro y gym Se completo la accion: Hacer la cena, Tiempo: 40, Batería gastada: 10
+De la tarea: Enseñanza diversa Se completo la accion: Inicia la lección de protección ambiental , Tiempo: 64, Batería gastada: 4
+De la tarea: Enseñanza diversa Se completo la accion: Recoge las herramientas para la clase de electrónica , Tiempo: 35, Batería gastada: 5
+De la tarea: Aprender Medicina casera Se completo la accion: Tutoriales de medicamentos caseros, Tiempo: 72, Batería gastada: 32
+De la tarea: Atender a los heridos Se completo la accion: Va por el almuerzo  , Tiempo: 48, Batería gastada: 3
+De la tarea: Atender a los heridos Se completo la accion: Va al Gym, Tiempo: 34, Batería gastada: 4
+De la tarea: Mantener huerto Se completo la accion: Va por abono, Tiempo: 17, Batería gastada: 2
+De la tarea: Mantener huerto Se completo la accion: Sembrando las semillas , Tiempo: 128, Batería gastada: 8
+De la tarea: Mantener huerto Se completo la accion: Va por el desayuno , Tiempo: 48, Batería gastada: 3
+De la tarea: Mantener huerto Se completo la accion: Va a descansar , Tiempo: 34, Batería gastada: 4
+De la tarea: Crear y armar rompecabezas Se completo la accion: LLama a sus amigos para armar el rompecabezas, Tiempo: 12, Batería gastada: 2
+De la tarea: Preparar el culto Se completo la accion: Va a cardio dance, Tiempo: 68, Batería gastada: 8
+De la tarea: Preparar el culto Se completo la accion: Preparando la agenda del segundo sermón, Tiempo: 33, Batería gastada: 3
+De la tarea: Aprender una nueva Fe Se completo la accion: Unos versículos en una lengua muerta, Tiempo: 40, Batería gastada: 20
+De la tarea: Honear queque Se completo la accion: Quemar las calorías del queque , Tiempo: 40, Batería gastada: 10
+De la tarea: Aprender Medicina casera Se completo la accion: Aprendizaje de último minuto, Tiempo: 27, Batería gastada: 12
+De la tarea: Reparar el carro Se completo la accion: Comprar comida , Tiempo: 12, Batería gastada: 2
+De la tarea: Reparar el carro Se completo la accion: Lleva el carro para revisarlo, Tiempo: 17, Batería gastada: 12
+De la tarea: Aprender a programar Se completo la accion: Debe comer, Tiempo: 21, Batería gastada: 11
+De la tarea: Mantener huerto Se completo la accion: Regando las plantas , Tiempo: 64, Batería gastada: 4
+De la tarea: Aprender Medicina casera Se completo la accion: Para combinar un poco de arroz con Formol, Tiempo: 62, Batería gastada: 21
+De la tarea: Aprender Medicina casera Se completo la accion: Generar nuevas muestras, Tiempo: 72, Batería gastada: 31
+De la tarea: Aprender una nueva Fe Se completo la accion: Memorizar, Tiempo: 27, Batería gastada: 12
+De la tarea: Preparar el culto Se completo la accion: Va por el almuerzo, Tiempo: 48, Batería gastada: 3
+De la tarea: Preparar el culto Se completo la accion: Se va a leer, Tiempo: 54, Batería gastada: 4
+De la tarea: Aprender a boxear Se completo la accion: Necesita bebida para rehidratarse, Tiempo: 35, Batería gastada: 15
+De la tarea: Aprender a boxear Se completo la accion: Entrenar en la casa, Tiempo: 60, Batería gastada: 20
+De la tarea: Aprender a boxear Se completo la accion: Hacer una pelea en competencia, Tiempo: 25, Batería gastada: 10
+De la tarea: Manual de actividades 1 Se completo la accion: Piropea a una muchacha a la salida del gimnasio, Tiempo: 20, Batería gastada: 10
+De la tarea: Manual de actividades 1 Se completo la accion: Va a comprar una cofal, Tiempo: 40, Batería gastada: 30
+De la tarea: Manual de actividades 1 Se completo la accion: Se pone el cofal, Tiempo: 40, Batería gastada: 20
+De la tarea: Comuna#5 Se completo la accion: Tomar un tiempo para almorzar , Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion: Tomar corto descanso, Tiempo: 20, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Cambiar el aula y recibir otra clase, Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Realizar tareas y repasar materia, Tiempo: 140, Batería gastada: 60
+De la tarea: Comuna#3 Se completo la accion: Comprobar resultados y obtener materia, Tiempo: 50, Batería gastada: 20
+De la tarea: Cocinar Se completo la accion: Va a ver una receta , Tiempo: 34, Batería gastada: 4
+De la tarea: Cocinar Se completo la accion: Prepara la cocina , Tiempo: 16, Batería gastada: 1
+De la tarea: Cocinar Se completo la accion: Va a la despensa por los alimentos para la cena , Tiempo: 22, Batería gastada: 2
+De la tarea: Aprender a cultivar Se completo la accion: Tiene que limpiar, Tiempo: 91, Batería gastada: 50
+De la tarea: Comuna#2 Se completo la accion: Tomar un tiempo para almorzar , Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Tomar corto descanso, Tiempo: 20, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Realizar trabajos administrativos, Tiempo: 310, Batería gastada: 130
+De la tarea: Comuna#4 Se completo la accion: Lo primero que hace es trabajar, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Obtiene algo para desayunar, Tiempo: 110, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Hace algo de ejercicio, Tiempo: 110, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Alaba a Monesvol durante una hora, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Trabaja un rato. Solo lo necesario, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Ver tiktok por 1 hora, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Trabaja por dos horas. Muy concentrado, Tiempo: 140, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Busca algo para el almuerzo, Tiempo: 110, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Consigue viveres y condimentos para el almuerzo, Tiempo: 110, Batería gastada: 20
+De la tarea: Enseñanza diversa Se completo la accion: Da la lección de electrónica para el mantenimiento de la batería  , Tiempo: 66, Batería gastada: 6
+De la tarea: Enseñanza diversa Se completo la accion: Va y almuerza en el receso , Tiempo: 48, Batería gastada: 3
+De la tarea: Enseñanza diversa Se completo la accion: Recoge las herramientas de carpintería  , Tiempo: 22, Batería gastada: 2
+De la tarea: Enseñanza diversa Se completo la accion: Inicia las clases de industriales , Tiempo: 52, Batería gastada: 7
+De la tarea: Enseñanza diversa Se completo la accion: Devuelve las herramientas , Tiempo: 32, Batería gastada: 2
+De la tarea: Manual de actividades 2 Se completo la accion: Se lava los dientes, Tiempo: 20, Batería gastada: 10
+De la tarea: Manual de actividades 2 Se completo la accion: Ordena el cuarto, Tiempo: 40, Batería gastada: 30
+De la tarea: Aprender Medicina casera Se completo la accion: probar en un voluntario, Tiempo: 92, Batería gastada: 42
+De la tarea: Atender a los heridos Se completo la accion: Rellenar farmacia , Tiempo: 33, Batería gastada: 3
+De la tarea: Manual de actividades 3 Se completo la accion: Afila los cuchillos y machetes, Tiempo: 80, Batería gastada: 20
+De la tarea: Manual de actividades 3 Se completo la accion: Riega las plantas, Tiempo: 50, Batería gastada: 30
+De la tarea: Manual de actividades 3 Se completo la accion: Piensa en un nombre para su doceavo hijo, Tiempo: 15, Batería gastada: 5
+De la tarea: Aprender a programar Se completo la accion: Practicar, Tiempo: 24, Batería gastada: 9
+De la tarea: Aprender a programar Se completo la accion: Hacer un software, Tiempo: 71, Batería gastada: 21
+De la tarea: Comuna#1 Se completo la accion: Realizar la jornada laboral del día, Tiempo: 300, Batería gastada: 120
+De la tarea: Comuna#1 Se completo la accion: Obtener la cena, Tiempo: 30, Batería gastada: 10
+De la tarea: Manual de actividades 4 Se completo la accion: Se emborracha, Tiempo: 40, Batería gastada: 20
+De la tarea: Mantener huerto Se completo la accion: Recoger el tractor (que si sirve), Tiempo: 35, Batería gastada: 5
+De la tarea: Mantener huerto Se completo la accion: Cosecha el huerto , Tiempo: 54, Batería gastada: 4
+De la tarea: Mantener huerto Se completo la accion: Va por el almuerzo , Tiempo: 48, Batería gastada: 3
+De la tarea: Mantener huerto Se completo la accion: limpiando las herramientas, Tiempo: 49, Batería gastada: 4
+De la tarea: Mantener huerto Se completo la accion: Devuelve las herramientas , Tiempo: 67, Batería gastada: 7
+De la tarea: Aprender Medicina casera Se completo la accion: Para componerlo con antibióticos , Tiempo: 81, Batería gastada: 21
+De la tarea: Aprender a cultivar Se completo la accion: Necesita Fe, Tiempo: 22, Batería gastada: 7
+De la tarea: Aprender una nueva Fe Se completo la accion: Cambio de creencia, Tiempo: 53, Batería gastada: 12
+De la tarea: Manual de actividades 5 Se completo la accion: Piensa en que tenía algo que hacer, Tiempo: 15, Batería gastada: 5
+De la tarea: Manual de actividades 2 Se completo la accion: A dormir, Tiempo: 40, Batería gastada: 20
+De la tarea: Manual de actividades 3 Se completo la accion: A dormir, Tiempo: 40, Batería gastada: 20
+De la tarea: Aprender una nueva Fe Se completo la accion: Plegaria al 666, Tiempo: 38, Batería gastada: 21
+De la tarea: Crear y armar rompecabezas Se completo la accion: Coordinar por donde va a empezar , Tiempo: 13, Batería gastada: 3
+De la tarea: Comuna#5 Se completo la accion: Cosechar plantas, Tiempo: 150, Batería gastada: 30
+De la tarea: Comuna#3 Se completo la accion: Realizar trabajos colaborativo, Tiempo: 70, Batería gastada: 10
+De la tarea: Crear y armar rompecabezas Se completo la accion: Separan las piezas   , Tiempo: 45, Batería gastada: 10
+De la tarea: Comuna#4 Se completo la accion: Trabaja un rato, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Trabaja un rato, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Ver tutoriales para hippies por 1 hora, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Termina trabajo del dia, Tiempo: 80, Batería gastada: 20
+De la tarea: Comuna#4 Se completo la accion: Busca algo para la cena, Tiempo: 110, Batería gastada: 20
+De la tarea: Manual de actividades 5 Se completo la accion: Se acuerda que no avanzo en nada de la progra, Tiempo: 10, Batería gastada: 5
+De la tarea: Carro y gym Se completo la accion: Cenar , Tiempo: 30, Batería gastada: 0
+De la tarea: Aprender Medicina casera Se completo la accion: Con la ayuda De Dios nada sale mal, Tiempo: 86, Batería gastada: 54
+De la tarea: Aprender a cultivar Se completo la accion: Le pide a Dios, Tiempo: 23, Batería gastada: 5
+De la tarea: Preparar el culto Se completo la accion: Da el segundo sermón, Tiempo: 125, Batería gastada: 5
+De la tarea: Preparar el culto Se completo la accion: Toma café y chismea, Tiempo: 55, Batería gastada: 5
+De la tarea: Manual de actividades 1 Se completo la accion: A dormir porque ya esta viejito, Tiempo: 45, Batería gastada: 5
+De la tarea: Comuna#5 Se completo la accion: Preparar para transportar, Tiempo: 140, Batería gastada: 60
+De la tarea: Comuna#5 Se completo la accion: Reabastecer las despensa, Tiempo: 140, Batería gastada: 20
+De la tarea: Comuna#5 Se completo la accion: Realizar el trabajo en otras zonas del huerto, Tiempo: 300, Batería gastada: 120
+De la tarea: Comuna#5 Se completo la accion: Obtener la cena, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#5 Se completo la accion: Disfrutar del tiempo libre , Tiempo: 120, Batería gastada: 60
+De la tarea: Comuna#3 Se completo la accion: Comprobar resultados y obtener materia, Tiempo: 50, Batería gastada: 20
+De la tarea: Comuna#3 Se completo la accion: Recibir clases de la tarde, Tiempo: 300, Batería gastada: 120
+De la tarea: Comuna#3 Se completo la accion: Obtener la cena, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Disfrutar del tiempo libre , Tiempo: 120, Batería gastada: 60
+De la tarea: Cocinar Se completo la accion: Hacer la cena, Tiempo: 63, Batería gastada: 3
+De la tarea: Cocinar Se completo la accion: Va a la farmacia por una venda , Tiempo: 23, Batería gastada: 3
+De la tarea: Cocinar Se completo la accion: Recoger la cocina , Tiempo: 16, Batería gastada: 1
+De la tarea: Aprender a cultivar Se completo la accion: Necesita distraerse, Tiempo: 33, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Revisar tareas  , Tiempo: 70, Batería gastada: 10
+De la tarea: Comuna#2 Se completo la accion: Realizar la jornada laboral del día, Tiempo: 300, Batería gastada: 120
+De la tarea: Comuna#2 Se completo la accion: Obtener la cena, Tiempo: 30, Batería gastada: 10
+De la tarea: Comuna#4 Se completo la accion: Al final del dia es responsable y estudia, Tiempo: 80, Batería gastada: 20
+De la tarea: Atender a los heridos Se completo la accion: Va por los medicamentos, Tiempo: 25, Batería gastada: 5
+De la tarea: Comuna#1 Se completo la accion: Disfrutar del tiempo libre , Tiempo: 120, Batería gastada: 60
+De la tarea: Mantener huerto Se completo la accion: Se va a dormir, Tiempo: 64, Batería gastada: 4
+De la tarea: Aprender una nueva Fe Se completo la accion: Posesión demoniaca, Tiempo: 17, Batería gastada: 12
+De la tarea: Aprender Medicina casera Se completo la accion: Todo un matasanos, Tiempo: 84, Batería gastada: 32
+De la tarea: Aprender una nueva Fe Se completo la accion: Vuelto a la vida, Tiempo: 250, Batería gastada: 80
+De la tarea: Comuna#5 Se completo la accion: Orar o realizar la actividad religiosa , Tiempo: 40, Batería gastada: 10
+De la tarea: Comuna#3 Se completo la accion: Orar o realizar la actividad religiosa , Tiempo: 40, Batería gastada: 10
+De la tarea: Crear y armar rompecabezas Se completo la accion: Armas el rompecazabas, Tiempo: 205, Batería gastada: 25
+De la tarea: Comuna#2 Se completo la accion: Disfrutar del tiempo libre , Tiempo: 120, Batería gastada: 60
+De la tarea: Comuna#2 Se completo la accion: Orar o realizar la actividad religiosa , Tiempo: 40, Batería gastada: 10
+De la tarea: Comuna#1 Se completo la accion: Orar o realizar la actividad religiosa , Tiempo: 40, Batería gastada: 10
+De la tarea: Aprender a cultivar Se completo la accion: Se libera estrés, Tiempo: 50, Batería gastada: 14
+
+Se terminaron todas las tareas
+Duró: 23074 minutos en terminar
+El tiempo de espera promedio fue: 48.809322

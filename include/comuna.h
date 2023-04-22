@@ -11,7 +11,7 @@
 #define true 1
 #define false 0
 
-struct Comuna {
+typedef struct {
     int cantidad_paneles_solares;
     int capacidad_banco_baterias;
     int area_trabajo_comun;
@@ -23,7 +23,7 @@ struct Comuna {
     int area_farmacia;
     int area_despensa;
     int area_huerto;
-};
+}Comuna;
 
 typedef struct {
     int indice;

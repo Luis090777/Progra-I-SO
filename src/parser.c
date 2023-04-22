@@ -89,3 +89,17 @@ void remover_substring(char *s, const char *toremove, char *result) {
     }
     result[j] = '\0';
 }
+
+void registrar_accion(FILE* log_file, Accion accion, int tiempo) {
+    char comentario_sin_salto_de_linea[strlen(accion.comentario)];
+    int j = 0;
+    for (int i = 0; accion.comentario[i] != '\0'; i++) {
+        if (accion.comentario[i] != '\n' && accion.comentario[i] != '\r') {
+            comentario_sin_salto_de_linea[j++] = accion.comentario[i];
+        }
+    }
+    comentario_sin_salto_de_linea[j] = '\0';
+    
+    fprintf(log_file, "De la tarea: %s Se completo la accion: %s, Tiempo: %d, Batería gastada: %d\n",
+            accion.programa_padre.nombre, comentario_sin_salto_de_linea, tiempo, accion.cantidad_de_bateria_requerida);
+}
