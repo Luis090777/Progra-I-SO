@@ -34,14 +34,14 @@ void ordenamiento_trabajo_más_corto(Accion acciones[], int cantidad_acciones) {
 }
 
 void ejecutar_trabajo_más_corto(FILE *log_file, Comuna comuna, Accion acciones[], int cantidad_acciones){
-    int espera_en_bateria=0;
+    int espera_en_bateria = 0;
     int tiempo_de_espera = 0;
+    int tiempo_de_espera_bateria = 0;
     int minutos_recorridos = 0;
     int temp = 0;
     int i = 0;
     int veces = 0;
     bool cumplido = false; // variable que indica si se ha cumplido la acción actual
-
 
     while (i < cantidad_acciones) {
         if (cumplido) { // solo actualiza el índice si se ha cumplido la acción
@@ -56,6 +56,7 @@ void ejecutar_trabajo_más_corto(FILE *log_file, Comuna comuna, Accion acciones[
 
             temp++;
             tiempo_de_espera++;
+            tiempo_de_espera_bateria++;
             minutos_recorridos++;
         }
 
@@ -72,8 +73,6 @@ void ejecutar_trabajo_más_corto(FILE *log_file, Comuna comuna, Accion acciones[
                 temp = 0;
                 espera_en_bateria = 0;
                 cumplido = true;
-                
-
             }
         } else {
             temp++;
@@ -88,22 +87,22 @@ void ejecutar_trabajo_más_corto(FILE *log_file, Comuna comuna, Accion acciones[
                 temp = 0;
                 espera_en_bateria = 0;
                 cumplido = true;
-                
             }
         }
     }
-        printf("se terminaron todas las tareas\n");
-        printf("Se duró: %d minutos\n", minutos_recorridos);
-        double d = (double) tiempo_de_espera / cantidad_acciones;
-        printf("El tiempo de espera promedio fue : %f\n", d);
-        printf("bateria final %d\n", comuna.capacidad_banco_baterias);
 
-        fprintf(log_file,"\nSe terminaron todas las tareas\n");
-        fprintf(log_file, "Duró: %d minutos en terminar\n", minutos_recorridos);
-        fprintf(log_file,"El tiempo de espera promedio fue: %f\n", d);
+    printf("se terminaron todas las tareas\n");
+    printf("Se duró: %d minutos\n", minutos_recorridos);
+    double d = (double) tiempo_de_espera / cantidad_acciones;
+    printf("El tiempo de espera promedio fue : %f\n", d);
+    double d_bateria = (double) tiempo_de_espera_bateria / cantidad_acciones;
+    printf("El tiempo de espera promedio de batería fue : %f\n", d_bateria);
+    printf("bateria final %d\n", comuna.capacidad_banco_baterias);
+    fprintf(log_file,"\nSe terminaron todas las tareas\n");
+    fprintf(log_file, "Duró: %d minutos en terminar\n", minutos_recorridos);
+    fprintf(log_file,"El tiempo de espera promedio fue: %f\n", d);
 
 }
-
 
 void ordenamiento_costo_bateria_descendente(Accion acciones[], int cantidad_acciones) {
     int i, j;
